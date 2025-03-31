@@ -2,3 +2,4 @@ Flask==2.2.2
 youtube-dl==2021.12.17
 pydub==0.25.1
 gunicorn
+yt-dlp
